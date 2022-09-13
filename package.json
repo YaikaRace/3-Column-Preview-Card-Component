@@ -1,0 +1,18 @@
+{
+	"name": "3-column-preview-card-component",
+	"version": "1.0.0",
+	"description": "a challenge from Frontend Mentor",
+	"main": "index.js",
+	"scripts": {
+		"build-css": "tailwindcss -i ./src/input.css -o ./public/css/styles.css"
+	},
+	"keywords": [
+		"Tailwindcss",
+		"frontendmentor"
+	],
+	"author": "Yaika Race",
+	"license": "GPL-3.0-or-later",
+	"dependencies": {
+		"tailwindcss": "^3.1.8"
+	}
+}
